@@ -39,7 +39,7 @@ p {
 /* button position */
 
 .btn-position {
-  margin: 20px auto;
+  margin: 20px 25px;
 }
 
 /* bloggers section */
@@ -99,7 +99,7 @@ p {
 
 #footer-section {
   text-align: center;
-  background-color: #f9d56e;
+  background-color: #0f4c75;
 }
 
 .footer-icons {
@@ -112,14 +112,13 @@ p {
 }
 
 .footer-link:hover {
-  color: #81b214;
+  color: #a2d5f2;
 }
 
 .copyright-claim {
   font-size: 0.9rem;
   color: #fff;
 }
-
 
 /* media query for smaller viewports */
 
@@ -130,4 +129,3 @@ p {
     text-align: center;
   }
 }
-
